@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showguides="true"
-     inkscape:zoom="1.5074001"
-     inkscape:cx="1751.6915"
-     inkscape:cy="140.9712"
+     inkscape:zoom="0.37685003"
+     inkscape:cx="927.42462"
+     inkscape:cy="417.93813"
      inkscape:window-width="1920"
      inkscape:window-height="1031"
      inkscape:window-x="0"
@@ -44,7 +44,7 @@
        id="page19"
        margin="0"
        bleed="0"
-       inkscape:label="Concept" />
+       inkscape:label="concept" />
     <inkscape:page
        x="307"
        y="0"
@@ -53,7 +53,10 @@
        id="page20"
        margin="0"
        bleed="0"
-       inkscape:label="Web: Favicon" />
+       inkscape:export-filename="favicon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:label="favicon" />
     <inkscape:page
        x="452.46667"
        y="0"
@@ -62,7 +65,7 @@
        id="page21"
        margin="0 0 0"
        bleed="0"
-       inkscape:label="Web: Logo" />
+       inkscape:label="logo" />
   </sodipodi:namedview>
   <defs
      id="defs1" />
